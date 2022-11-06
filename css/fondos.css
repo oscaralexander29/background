@@ -1,0 +1,15 @@
+body{
+    /* background-color: aqua;
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; */
+    color: white;
+    font-size: 100px;
+    
+    background: orangered url(../img/fondo.jpg) no-repeat fixed;
+}
+.footer{
+    color: black;
+    background: #f2f43f url(../img/fondo2.jpg) no-repeat;
+}
